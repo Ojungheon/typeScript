@@ -14,4 +14,12 @@ let doubleArr = [
 let tup1 = [1, 2];
 // tup1 = [1,2,3]; 불가
 let tup2 = [1, "2", true];
+tup1.push;
+const users = [
+    ["오중헌", 1],
+    ["오아무개", 2],
+    ["김아무개", 3],
+    ["박아무개", 4],
+    // [5 , "최아무개"],
+];
 export {};
